@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 siutin/stable-diffusion-webui-docker:cpu-v1.9.4-2024-06-12
+siutin/stable-diffusion-webui-docker:cpu-v1.9.3-2024-04-22

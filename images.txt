@@ -7,3 +7,4 @@ xhofe/alist:latest
 siutin/stable-diffusion-webui-docker:cpu-v1.9.4-2024-06-12
 siutin/stable-diffusion-webui-docker:cpu-v1.9.3-2024-04-22
 pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
+python:3.11.7

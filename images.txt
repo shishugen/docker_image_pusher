@@ -4,14 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-ssgssg/nacos-server:1.2.1
-ssgssg/bitnami-rabbitmq:3.8.9
-ssgssg/mysql:5.7.1
-ssgssg/redis:5.0.6
-ssgssg/fdfs-nginx-single:5.5
-ssgssg/nginx:1.23.1
-ssgssg/libreoffice:6
-ssgssg/guacamole-guacd:1.3
-ssgssg/neo4j:4.2.6
-ssgssg/kkfileview:latest
-ssgssg/mysql-back:1.0
+dataelement/bisheng-unstructured:latest
+dataelement/bisheng-ft:latest
+dataelement/bisheng-rt:0.0.6.5rc1

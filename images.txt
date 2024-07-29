@@ -8,3 +8,4 @@ dataelement/bisheng-unstructured:latest
 dataelement/bisheng-ft:latest
 dataelement/bisheng-rt:0.0.6.5rc1
 luhaodl/chatglm:latest
+dataelement/bisheng-rt:0.0.6.3

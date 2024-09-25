@@ -1,14 +1,14 @@
-nginx
+#nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-dataelement/bisheng-unstructured:latest
-dataelement/bisheng-ft:latest
-dataelement/bisheng-rt:0.0.6.5rc1
-luhaodl/chatglm:latest
-dataelement/bisheng-rt:0.0.6.3
-wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
-nginx
+#dataelement/bisheng-unstructured:latest
+#dataelement/bisheng-ft:latest
+#dataelement/bisheng-rt:0.0.6.5rc1
+#luhaodl/chatglm:latest
+#dataelement/bisheng-rt:0.0.6.3
+#wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
+#nginx
 jupyterhub/jupyterhub:latest

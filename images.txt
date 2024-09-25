@@ -11,3 +11,4 @@ luhaodl/chatglm:latest
 dataelement/bisheng-rt:0.0.6.3
 wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
 nginx
+jupyterhub/jupyterhub:latest

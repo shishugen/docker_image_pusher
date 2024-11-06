@@ -5,7 +5,10 @@ registry.cn-hangzhou.aliyuncs.com/ssg_gp/
   registry.cn-hangzhou.aliyuncs.com/ssg_gp/pytorch:2.1.2-cuda12.1-cudnn8-runtime
 
 
-
+<video width="320" height="240" controls>
+  <source src="[test.mp4](http://192.168.104.156:80/group1/M00/00/00/wKhonGcqzSuASE_3AmTS5PaK__E217.mp4)" type="video/mp4">
+  你的浏览器不支持视频标签。
+</video>
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
 - 支持DockerHub, gcr.io, k8s.io, ghcr.io等任意仓库<br>

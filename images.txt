@@ -13,4 +13,5 @@
 #nginx
 #jupyterhub/jupyterhub:latest
 #eipwork/nfs-subdir-external-provisioner:v4.0.2
-criyle/go-judge:v1.8.4
+#criyle/go-judge:v1.8.4
+rdsubhas/tor-privoxy-alpine:latest

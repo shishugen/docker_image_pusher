@@ -14,6 +14,7 @@
 #jupyterhub/jupyterhub:latest
 #eipwork/nfs-subdir-external-provisioner:v4.0.2
 #criyle/go-judge:v1.8.4
-rdsubhas/tor-privoxy-alpine:latest
+#rdsubhas/tor-privoxy-alpine:latest
 #universonic/stable-diffusion-webui:nightly-20241110030734
-universonic/stable-diffusion-webui:nightly-20241110030734-full
+#universonic/stable-diffusion-webui:nightly-20241110030734-full
+siutin/stable-diffusion-webui-docker:cuda-12.5.0-v1.10.0-2024-10-30

@@ -19,4 +19,5 @@
 #universonic/stable-diffusion-webui:nightly-20241110030734-full
 #siutin/stable-diffusion-webui-docker:cuda-12.5.0-v1.10.0-2024-10-30
 #python:3.10
-alpine:3.6
+python3.11.7
+#alpine:3.6
